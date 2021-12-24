@@ -20,3 +20,8 @@ Scikit-learn is an open source machine learning library that supports supervised
 
 
 For this project I have used Logistic Regression model.And for the classification models the evaluation metrics is best represented in Confusion Matrix and also Precision,recall,f1-score and support.
+
+### 4. References
+https://www.kaggle.com/c/titanic
+
+https://scikit-learn.org/stable/
